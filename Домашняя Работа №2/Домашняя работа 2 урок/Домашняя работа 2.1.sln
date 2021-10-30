@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Домашняя работа 2.1", "Домашняя работа 2.1\Домашняя работа 2.1.csproj", "{B02469C4-6C82-4C5B-B446-DE9049ED7045}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Домашнее задание 2.2", "Домашнее задание 2.2\Домашнее задание 2.2.csproj", "{2A12D13A-6384-4980-8B7C-F0CE0B3B439A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Домашнее задание 2.2", "Домашнее задание 2.2\Домашнее задание 2.2.csproj", "{2A12D13A-6384-4980-8B7C-F0CE0B3B439A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Димашнее задание 2.3", "Димашнее задание 2.3\Димашнее задание 2.3.csproj", "{F2B980FA-847E-4972-91CB-90380A3B81D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Димашнее задание 2.3", "Димашнее задание 2.3\Димашнее задание 2.3.csproj", "{F2B980FA-847E-4972-91CB-90380A3B81D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Домашняя работа 2.4", "Домашняя работа 2.4\Домашняя работа 2.4.csproj", "{EA81E7C6-1F09-490B-817A-C3AE870C9E4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{F2B980FA-847E-4972-91CB-90380A3B81D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2B980FA-847E-4972-91CB-90380A3B81D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2B980FA-847E-4972-91CB-90380A3B81D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA81E7C6-1F09-490B-817A-C3AE870C9E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA81E7C6-1F09-490B-817A-C3AE870C9E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA81E7C6-1F09-490B-817A-C3AE870C9E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA81E7C6-1F09-490B-817A-C3AE870C9E4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

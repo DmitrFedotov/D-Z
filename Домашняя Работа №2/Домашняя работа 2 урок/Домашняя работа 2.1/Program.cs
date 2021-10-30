@@ -16,7 +16,7 @@ namespace Домашняя_работа_2._1
                 one = double.Parse(Console.ReadLine());
                 Console.WriteLine("Введите максимальную t°C");
                 two = double.Parse(Console.ReadLine());
-                Console.WriteLine($"Средняе суточная t°C в сутки {(one + two) / 2}");
+                Console.WriteLine($"Средне суточная t°C в сутки {(one + two) / 2}");
             }
         }
     }
