@@ -7,14 +7,7 @@ namespace Домашнее_задание_2._2
 {
     class Program
     {
-        enum seasons  
-        {
-         winter, 
-         spring,
-         summer,
-         autumn
-
-        }
+       
         enum moth
         {
             January = 1,
