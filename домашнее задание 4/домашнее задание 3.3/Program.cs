@@ -1,9 +1,13 @@
 ﻿using System;
 
+
+
+
 namespace Домашнее_задание_2._2
 {
     class Program
     {
+       
         enum moth
         {
             January = 1,
@@ -35,6 +39,10 @@ namespace Домашнее_задание_2._2
                 {
                     Console.WriteLine($"Это месяц {(moth)a}");
                     a.ToString();
+                    if ((a== 12) || (a <= 2)) Console.Write("Время года - зима          ");
+                    else if ((a >= 3) && (a <= 5)) Console.Write("Время года - весна    ");
+                    else if ((a >= 6) && (a <= 8)) Console.Write("Время года - лето     ");
+                    else if ((a >= 9) && (a <= 11)) Console.Write("Время года - осень   ");
 
                 }
                 else
@@ -51,7 +59,7 @@ namespace Домашнее_задание_2._2
                     Console.ReadKey();
 
                 }
-            
+
 
             }
 
